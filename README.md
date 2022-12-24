@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Samuel de Oliveira 👋
 
-<!--
-**samuoliveira/samuoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Intro
 
-Here are some ideas to get you started:
+Developer since  2022, working mainly in Javascript projects, using
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React.js (Next.js)
+- Node.js(Express, Next.js)
+- React Native
+
+## My Course
+
+ADS UNITER PARANA
+https://mapadaprogração.com.br/
